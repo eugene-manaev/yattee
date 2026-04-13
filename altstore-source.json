@@ -9,7 +9,7 @@
   "apps": [
     {
       "name": "Yattee",
-      "bundleIdentifier": "stream.yattee.app",
+      "bundleIdentifier": "yattee.manaev.me",
       "developerName": "Yattee",
       "subtitle": "Privacy-focused video player",
       "localizedDescription": "Yattee is a privacy-focused video player for iPhone, iPad, Mac, and Apple TV.\n\nPlayback\n- 4K video with custom MPV-based player (H.264, H.265, VP9, AV1)\n- Picture in Picture, background audio, fullscreen\n- Playback queue, history, resume from last position\n- Chapter navigation, playback speed, subtitles and captions\n- Gesture controls (seek, volume, brightness)\n- Seek preview with storyboards\n\nContent Sources\n- YouTube via Invidious, Piped, or self-hosted Yattee Server\n- PeerTube instances (federated video)\n- Local files, SMB network shares, WebDAV servers\n\nIntegrations\n- SponsorBlock (configurable skip categories)\n- DeArrow (crowdsourced titles and thumbnails)\n- Return YouTube Dislike\n\nLibrary\n- Subscriptions with per-channel notifications\n- Bookmarks with tags and notes, playlists, watch history\n- Unified search across all configured sources\n- Import/export subscriptions (JSON, CSV, OPML)\n\nDownloads & Sync\n- Offline video and audio downloads with quality selection\n- iCloud sync for bookmarks, subscriptions, history, and settings across devices\n- Handoff continuity between iPhone, iPad, Mac, and Apple TV\n\nApple Ecosystem\n- Customizable home layout, accent colors, player controls, and app icon\n- Clipboard URL detection and deep linking (yattee://)\n- Remote control between devices on your network",

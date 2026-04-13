@@ -572,7 +572,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 270;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = 78Z5H3M6RJ;
+				DEVELOPMENT_TEAM = DFFRAVS47E;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_INCOMING_NETWORK_CONNECTIONS = YES;
@@ -622,7 +622,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
 				MARKETING_VERSION = 2.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = stream.yattee.app;
+				PRODUCT_BUNDLE_IDENTIFIER = yattee.manaev.me;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				RUNTIME_EXCEPTION_ALLOW_DYLD_ENVIRONMENT_VARIABLES = NO;
@@ -658,7 +658,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 270;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = 78Z5H3M6RJ;
+				DEVELOPMENT_TEAM = DFFRAVS47E;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_INCOMING_NETWORK_CONNECTIONS = YES;
@@ -710,7 +710,7 @@
 					"$(inherited)",
 					"-Wl,-dead_strip_dylibs",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = stream.yattee.app;
+				PRODUCT_BUNDLE_IDENTIFIER = yattee.manaev.me;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				RUNTIME_EXCEPTION_ALLOW_DYLD_ENVIRONMENT_VARIABLES = NO;
@@ -802,7 +802,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 270;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = 78Z5H3M6RJ;
+				DEVELOPMENT_TEAM = DFFRAVS47E;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_INCOMING_NETWORK_CONNECTIONS = YES;
@@ -850,7 +850,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 15.0;
 				MARKETING_VERSION = 2.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = stream.yattee.app;
+				PRODUCT_BUNDLE_IDENTIFIER = yattee.manaev.me;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				RUNTIME_EXCEPTION_ALLOW_DYLD_ENVIRONMENT_VARIABLES = NO;
@@ -911,7 +911,7 @@
 				CODE_SIGN_ENTITLEMENTS = YatteeShareExtension/YatteeShareExtension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 270;
-				DEVELOPMENT_TEAM = 78Z5H3M6RJ;
+				DEVELOPMENT_TEAM = DFFRAVS47E;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = YatteeShareExtension/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Yattee Share Extension";
@@ -923,7 +923,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 2.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = stream.yattee.app.ShareExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = yattee.manaev.me.ShareExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -943,7 +943,7 @@
 				CODE_SIGN_ENTITLEMENTS = YatteeTopShelf/YatteeTopShelf.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 270;
-				DEVELOPMENT_TEAM = 78Z5H3M6RJ;
+				DEVELOPMENT_TEAM = DFFRAVS47E;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = YatteeTopShelf/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Yattee Top Shelf";
@@ -955,7 +955,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 2.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = stream.yattee.app.TopShelf;
+				PRODUCT_BUNDLE_IDENTIFIER = yattee.manaev.me.TopShelf;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
@@ -978,10 +978,10 @@
 				CODE_SIGN_ENTITLEMENTS = YatteeShareExtension/YatteeShareExtension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 270;
-				DEVELOPMENT_TEAM = 78Z5H3M6RJ;
+				DEVELOPMENT_TEAM = DFFRAVS47E;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = YatteeShareExtension/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Yattee Share Extension";
+				INFOPLIST_KEY_CFBundleDisplayName = "Open in Yattee";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 18;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -990,7 +990,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 2.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = stream.yattee.app.ShareExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = yattee.manaev.me.ShareExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -1009,10 +1009,10 @@
 				CODE_SIGN_ENTITLEMENTS = YatteeShareExtension/YatteeShareExtension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 270;
-				DEVELOPMENT_TEAM = 78Z5H3M6RJ;
+				DEVELOPMENT_TEAM = DFFRAVS47E;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = YatteeShareExtension/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Yattee Share Extension";
+				INFOPLIST_KEY_CFBundleDisplayName = "Open in Yattee";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				IPHONEOS_DEPLOYMENT_TARGET = 18;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -1021,7 +1021,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 2.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = stream.yattee.app.ShareExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = yattee.manaev.me.ShareExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -1041,7 +1041,7 @@
 				CODE_SIGN_ENTITLEMENTS = YatteeTopShelf/YatteeTopShelf.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 270;
-				DEVELOPMENT_TEAM = 78Z5H3M6RJ;
+				DEVELOPMENT_TEAM = DFFRAVS47E;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = YatteeTopShelf/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Yattee Top Shelf";
@@ -1053,7 +1053,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 2.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = stream.yattee.app.TopShelf;
+				PRODUCT_BUNDLE_IDENTIFIER = yattee.manaev.me.TopShelf;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
@@ -1075,7 +1075,7 @@
 				CODE_SIGN_ENTITLEMENTS = YatteeTopShelf/YatteeTopShelf.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 270;
-				DEVELOPMENT_TEAM = 78Z5H3M6RJ;
+				DEVELOPMENT_TEAM = DFFRAVS47E;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = YatteeTopShelf/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Yattee Top Shelf";
@@ -1087,7 +1087,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 2.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = stream.yattee.app.TopShelf;
+				PRODUCT_BUNDLE_IDENTIFIER = yattee.manaev.me.TopShelf;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
