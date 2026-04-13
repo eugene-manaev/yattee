@@ -308,10 +308,10 @@ struct UnifiedTabView: View {
 extension View {
     @ViewBuilder
     func iOS26TabFeatures(shouldShowAccessory: Bool, settingsManager: SettingsManager?) -> some View {
-        if #available(iOS 26.1, *) {
+        if #available(iOS 26.1, *), shouldShowAccessory {
             let behavior = settingsManager?.miniPlayerMinimizeBehavior.tabBarMinimizeBehavior ?? .onScrollDown
             self
-                .tabViewBottomAccessory(isEnabled: shouldShowAccessory) {
+                .tabViewBottomAccessory() {
                     MiniPlayerView(isTabAccessory: true)
                 }
                 .tabBarMinimizeBehavior(behavior)
