@@ -112,3 +112,5 @@ spec/ui_snapshots/diff/
 # Environment variables (contains secrets)
 .env
 .env.local
+
+.DS_Store
